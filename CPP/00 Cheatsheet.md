@@ -1,7 +1,9 @@
-#Basics
+# Basics
 
-##Basic syntax and functions from the C++ programming language.
-###Boilerplate
+## Basic syntax and functions from the C++ programming language.
+
+### Boilerplate
+
 ```#include <iostream>
 using namespace std;
 int main() {
