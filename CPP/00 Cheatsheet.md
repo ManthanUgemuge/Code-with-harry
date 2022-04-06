@@ -9,10 +9,10 @@ cout << "Welcome To CodeWithHarry";
 return 0;
 }
 cout <<
-It prints output on the screen
+\\It prints output on the screen
 cout << "This is C++ Programming";
 cin >>
-It takes input from the user
+\\It takes input from the user
 cin >> variable_name
 ```
 
