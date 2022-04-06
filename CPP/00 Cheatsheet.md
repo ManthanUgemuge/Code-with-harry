@@ -1,7 +1,8 @@
-Basics
-Basic syntax and functions from the C++ programming language.
-Boilerplate
-#include <iostream>
+#Basics
+
+##Basic syntax and functions from the C++ programming language.
+###Boilerplate
+```#include <iostream>
 using namespace std;
 int main() {
 cout << "Welcome To CodeWithHarry";
@@ -13,6 +14,8 @@ cout << "This is C++ Programming";
 cin >>
 It takes input from the user
 cin >> variable_name
+```
+
 Data types
 The data type is the type of data
 Character type
