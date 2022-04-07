@@ -18,9 +18,11 @@ cin >>
 cin >> variable_name
 ```
 
-Data types
+
+### Data types
 The data type is the type of data
-Character type
+
+### Character type
 Typically a single octet(one byte). It is an integer type
 char variable_name;
 Integer type
@@ -215,7 +217,7 @@ point of the loop
 continue;
 References
 Reference is an alias for an already existing variable. Once it is initialized to a variable, it cannot
-be changed to refer to another variable. So, it's a const pointer.
+be changed to refer to another variable. So, its a const pointer.
 Creating References
 string var1 = "Value1"; // var1 variable
 string &var2 = var1; // reference to var1
