@@ -1,6 +1,4 @@
-I started this course as an attempt to teach you web development in a fun, easy way! The aim of this course is to teach you how to build a high-quality, responsive, and modern website using HTML, CSS, and JavaScript.
-
- 
+# Introduction
 
 In this course, you will learn about all the technologies involved in web development. All the videos will be uploaded on my YouTube channel “CodeWithHarry” under the playlist section, which you can access from the video description on YouTube. This course is going to benefit all those students who do not know anything and are new to this field. You will get complete knowledge of HTML, CSS, and JavaScript. You will get full information from scratch about web development. Also, those who already have some knowledge can go through the course to learn even further as there are a lot of advanced websites that we will look into by the end of this course.
 
