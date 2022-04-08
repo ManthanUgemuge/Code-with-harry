@@ -14,7 +14,7 @@ You will have to download a Microsoft code editor named Visual Studio Code (or a
 
 The next step is to install the XAMPP software. It provides interpreters for scripts written in the Php, along with server solutions.
 
-XAMPP
+## XAMPP
 1. Go to this link to download XAMPP according to your OS and platform.
 
 2. Open the downloaded setup file. Follow the setup wizard and install XAMPP.
