@@ -1,7 +1,7 @@
 # Code with Harry
 
 - C Language
-- C plus plus
+- CPP
 - Data Structures and Algorithms
 - One Video Special
 - PHP
