@@ -24,21 +24,29 @@ The data type is the type of data
 
 ### Character type
 Typically a single octet(one byte). It is an integer type
+```
 char variable_name;
-Integer type
+```
+### Integer type
 The most natural size of integer for the machine
-Home - CodeWithHarry
-2/15
+```
 int variable_name;
-Float type
+```
+### Float type
 A single-precision floating-point value
+```
 float variable_name;
-Double type
+```
+### Double type
 A double-precision floating-point value
+```
 double variable_name;
-Void type
+```
+### Void type
 Represents the absence of the type
+```
 void
+```
 Boolean type
 bool
 Escape Sequences
