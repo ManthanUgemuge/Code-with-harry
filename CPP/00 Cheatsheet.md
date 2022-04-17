@@ -47,30 +47,28 @@ Represents the absence of the type
 ```
 void
 ```
-Boolean type
+### Boolean type
 bool
-Escape Sequences
+### Escape Sequences
 It is a sequence of characters starting with a backslash, and it doesn't represent itself when used
 inside string literal.
 Alarm or Beep
 It produces a beep sound
-\a
+### \a
 Backspace
 It adds a backspace
 Home - CodeWithHarry
 3/15
-\b
+### \b
 Form feed
-\f
+### \f
 Newline
 Newline Character
-\n
+### \n
 Carriage return
-\r
-Tab
+### \r Tab
 It gives a tab space
-\t
-Backslash
+### \t Backslash
 It adds a backslash
 \\
 Single quote
