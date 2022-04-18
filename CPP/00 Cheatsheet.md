@@ -49,27 +49,28 @@ void
 ```
 ### Boolean type
 bool
+
 ### Escape Sequences
 It is a sequence of characters starting with a backslash, and it doesn't represent itself when used
 inside string literal.
-Alarm or Beep
+
+### Alarm or Beep
 It produces a beep sound
 ``` \a```
-Backspace
+### Backspace
 It adds a backspace
-
 ``` \b```
-Form feed
+### Form feed
 ``` \f```
-Newline
+### Newline
 Newline Character
 ```\n ```
-Carriage return
+### Carriage return
 ``` \r ```
-Tab
+### Tab
 It gives a tab space
 ``` \t```
-Backslash
+### Backslash
 It adds a backslash
 \\
 Single quote
