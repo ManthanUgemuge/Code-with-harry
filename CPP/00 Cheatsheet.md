@@ -58,26 +58,26 @@ inside string literal.
 
 ### Alarm or Beep
 It produces a beep sound
-``` \a```
+``` \a```.
 ### Backspace
 It adds a backspace
-``` \b```
+``` \b```.
 ### Form feed
-``` \f```
+``` \f```.
 ### Newline
 Newline Character
-```\n ```
+```\n ```.
 ### Carriage return
-``` \r ```
+``` \r ```.
 ### Tab
 It gives a tab space
-``` \t```
+``` \t```.
 ### Backslash
 It adds a backslash
-\\
+```\\```
 Single quote
 It adds a single quotation mark
-\'
+```\'```
 Question mark
 It adds a question mark
 Home - CodeWithHarry
