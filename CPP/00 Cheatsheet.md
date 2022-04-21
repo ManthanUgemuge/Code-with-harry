@@ -24,7 +24,7 @@ The data type is the type of data
 
 ### Character type
 Typically a single octet(one byte). It is an integer type
-- ```
+```
 char variable_name;
 ```
 ### Integer type
@@ -57,27 +57,26 @@ It is a sequence of characters starting with a backslash, and it doesn't represe
 inside string literal.
 
 ### Alarm or Beep
-It produces a beep sound
-``` \a```.
+It produces a beep sound ``` \a```.
+
 ### Backspace
-It adds a backspace
-``` \b```.
-### Form feed
-``` \f```.
+It adds a backspace ``` \b```.
+
+### Form feed ``` \f```.
+
 ### Newline
-Newline Character
-```\n ```.
-### Carriage return
-``` \r ```.
+Newline Character ```\n ```.
+
+### Carriage return ``` \r ```.
+
 ### Tab
-It gives a tab space
-``` \t```.
+It gives a tab space ``` \t```.
+
 ### Backslash
-It adds a backslash
-```\\```
-Single quote
-It adds a single quotation mark
-```\'```
+It adds a backslash ```\\```
+
+### Single quote
+It adds a single quotation mark ```\'```
 Question mark
 It adds a question mark
 Home - CodeWithHarry
