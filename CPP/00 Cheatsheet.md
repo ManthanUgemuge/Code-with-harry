@@ -62,18 +62,20 @@ It produces a beep sound ``` \a```.
 ### Backspace
 It adds a backspace ``` \b```.
 
-### Form feed ``` \f```.
+### Form feed 
+Page breaking ASCII character ``` \f```.
 
 ### Newline
 Newline Character ```\n ```.
 
-### Carriage return ``` \r ```.
+### Carriage return 
+Control Character ``` \r ```.
 
 ### Tab
 It gives a tab space ``` \t```.
 
 ### Backslash
-It adds a backslash ```\\```
+It adds a backslash ```\\```.
 
 ### Single quote
 It adds a single quotation mark ```\'```
