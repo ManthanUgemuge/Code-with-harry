@@ -48,7 +48,9 @@ Represents the absence of the type
 void
 ```
 ### Boolean type
+```
 bool
+```
 
 ### Escape Sequences
 It is a sequence of characters starting with a backslash, and it doesn't represent itself when used
