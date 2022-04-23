@@ -5,6 +5,9 @@
 - Data Structures and Algorithms
 
 - Web Development
+  - HTML
+  - CSS
+  - JavaScript 
 - 
 - One Video Special
   - JavaScript
