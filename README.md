@@ -5,7 +5,7 @@
 - [Data Structures and Algorithms](https://github.com/ManthanUgemuge/Code-with-Harry/tree/main/Data%20Structures%20and%20Algorithms)
 
 
-- Web Development
+- [Web Development](https://github.com/ManthanUgemuge/Code-with-Harry/tree/main/Web%20Development)
   - HTML
   - CSS
   - JavaScript 
