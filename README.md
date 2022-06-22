@@ -17,7 +17,7 @@
 
 ## How to use Project
 
-- Download or clone the repository Website : 
+- Download(https://github.com/ManthanUgemuge/Code-with-Harry/archive/refs/heads/main.zip) or clone the repository Website : 
 ```
 https://github.com/ManthanUgemuge/Code-with-Harry.git
 ```
