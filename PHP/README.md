@@ -7,3 +7,5 @@
 5. Php Variables
 6. Rules for Creating Variables in Php
 7. Data Types
+
+https://github.com/ManthanUgemuge/Code-with-Harry/blob/main/PHP/Elements.png
