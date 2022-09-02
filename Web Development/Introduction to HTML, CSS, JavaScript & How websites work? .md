@@ -2,8 +2,6 @@
 
 In this course, you will learn about all the technologies involved in web development. All the videos will be uploaded on my YouTube channel “CodeWithHarry” under the playlist section, which you can access from the video description on YouTube. This course is going to benefit all those students who do not know anything and are new to this field. You will get complete knowledge of HTML, CSS, and JavaScript. You will get full information from scratch about web development. Also, those who already have some knowledge can go through the course to learn even further as there are a lot of advanced websites that we will look into by the end of this course.
 
- 
-
 Now let us first understand what HTML, CSS, and Javascript are for? For every website to be designed, HTML (HyperText Markup Language) is a must. This is the skeleton of a website. Without it, no website can run. CSS (Cascading Style Sheets) adds beauty to that website and JavaScript adds the brain to allow the functioning of that website. Therefore, CSS and JavaScript add beauty and brain to a particular website respectively. 
 
 Let us now take another example of a car. The HTML acts as the metallic body of a car and the CSS acts as the color and design of the car. Finally, the engine of a car is like the JavaScript on the website to add functionality. 
@@ -17,7 +15,5 @@ Finally, to understand-
 - JavaScript allows scripting on your website and makes it completely dynamic in nature. It provides front end scripting for your website and is a high-level dynamic interpreted programming language.
 
 Now, HTML, CSS, and JavaScript have a lot of concepts in them which we will take over through the span of this course. Therefore, it cannot be learned all at once. If you are a beginner, learning HTML up to 80%, CSS up to 40-60%, and JavaScript up to 50-70% will be more than enough to start building websites. This is something nobody in the web development industry talks about and hence I thought to share this personal advice with all of you.  Please don't get me wrong when I say that. Once you have learned and understood the bare minimum to build a website you can come back to the course and start watching it once again for perfecting and sharpening the already learned concepts. Sometimes following this practice gets difficult, the good news is that once you start watching these videos and get your hands dirty with basic HTML, CSS, and JavaScript, the rest you will gradually learn based upon your practices and experiences with the help of projects I have designed as a part of this course. You need to learn all the concepts simultaneously and co-relate all the things by practicing them.
-
- 
 
 So this was the introductory part where we have learned the basic concepts of HTML, CSS, and JavaScript. By following the course, you will learn some advanced concepts and build your website. Therefore, go through the course and start your journey to become a better web developer
